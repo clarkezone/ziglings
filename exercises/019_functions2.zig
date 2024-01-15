@@ -17,7 +17,6 @@ pub fn main() void {
         twoToThe(4),
     });
 }
-
 // Please give this function the correct input parameter(s).
 // You'll need to figure out the parameter name and type that we're
 // expecting. The output type has already been specified for you.
